@@ -6,11 +6,10 @@
 
 Hi, my name is Darya and I'm 18! My goil is complete the course perfectly and get a job!
 
-Programming languages that: <br/>
-I know how to do code | I teach
+Programming languages: <br/>
+I know | I teach
 --- | ---
-HTML5 | React
-CSS3/LESS/SASS |  
+HTML5/CSS3 | React
 JS |  
 C++ |  
 
